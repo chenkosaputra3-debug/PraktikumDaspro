@@ -1,0 +1,1 @@
+Hello Githug, ini adalah repository pertama saya.
